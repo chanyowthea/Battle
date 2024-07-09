@@ -38,6 +38,8 @@ public class NPC : MonoBehaviour
     }
 
     public int gIdx = 1;
+    public int VisualRadius = 12 * 50;
+
     // Use this for initialization
     void Start()
     {
@@ -344,5 +346,18 @@ public class NPC : MonoBehaviour
         }
 
         DrawBody();
+        DrawVisual();
+    }
+
+
+
+    protected void DrawVisual()
+    {
+        Gizmos.DrawWireSphere(this.transform.position, VisualRadius);
+        //for (int i = 0; i < pos_list.Count - 1; i++)
+        //{
+        //    var p = pos_list[i];
+        //    Debug.DrawLine(p, pos_list[i + 1], Color.blue);
+        //}
     }
 }

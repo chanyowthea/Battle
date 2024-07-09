@@ -50,7 +50,7 @@ public class NPCStateIdle:BaseNPCState
         var p = Player.Instance.transform.position;
         //dir = p - mPlayer.transform.position;
         //mPlayer.SetMoveDir(dir.normalized);
-        if (Vector2.Distance(p, mPlayer.transform.position) < 12 * 10)
+        if (Vector2.Distance(p, mPlayer.transform.position) < mPlayer.VisualRadius)
         { 
             mMachine.Switch(ENPCState.Run);
         }
