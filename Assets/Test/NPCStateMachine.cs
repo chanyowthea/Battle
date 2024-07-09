@@ -52,7 +52,7 @@ public class NPCStateIdle:BaseNPCState
         //mPlayer.SetMoveDir(dir.normalized);
         if (Vector2.Distance(p, mPlayer.transform.position) < mPlayer.VisualRadius)
         { 
-            mMachine.Switch(ENPCState.Run);
+            //mMachine.Switch(ENPCState.Run);
         }
     }
 }

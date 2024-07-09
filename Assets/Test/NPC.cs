@@ -3,20 +3,26 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
 
+public class GeneralInfo
+{
+    public int strength;
+    public int healthMax;
+    public int healthCur;
+}
+
 public class NPC : MonoBehaviour
 {
-    //public WarSceneController.WhichSide side;
-    private Vector3 generalPosBack = new Vector3(600, 0, 0);
-    private Vector3 generalPosFront = new Vector3(120, 0, 0);
-    private Vector3 deadBodyOffset = new Vector3(0, 50, 0);
-    private Vector3 weaponOffset = new Vector3(0, 50, 0);
+    protected Vector3 generalPosBack = new Vector3(600, 0, 0);
+    protected Vector3 generalPosFront = new Vector3(120, 0, 0);
+    protected Vector3 deadBodyOffset = new Vector3(0, 50, 0);
+    protected Vector3 weaponOffset = new Vector3(0, 50, 0);
 
-    private GeneralInfo gInfo;
-    private exSpriteAnimation head;
-    private exSpriteAnimation body;
-    private exSpriteAnimation weapon;
-    private exSpriteAnimation horse;
-    bool isStopped = false;
+    protected GeneralInfo gInfo;
+    protected exSpriteAnimation head;
+    protected exSpriteAnimation body;
+    protected exSpriteAnimation weapon;
+    protected exSpriteAnimation horse;
+    protected bool isStopped = false;
 
     NPCStateMachine mMachine = new NPCStateMachine();
 
@@ -69,7 +75,7 @@ public class NPC : MonoBehaviour
     // head_id [01,10]
     // body_id [01,10]
     // weapon_id [01,17]
-    void GeneralInit(int gIdx = 0, int horse_id = 1, int head_id = 1, int body_id = 1, int weapon_id = 1)
+    protected void GeneralInit(int gIdx = 0, int horse_id = 1, int head_id = 1, int body_id = 1, int weapon_id = 1)
     {
         string str = "";
         GameObject go;
@@ -111,8 +117,8 @@ public class NPC : MonoBehaviour
         horse.transform.localRotation = Quaternion.identity;
     }
 
-    float runSpeed = 80;
-    Vector3 dir;
+    protected float runSpeed = 80;
+    protected Vector3 dir;
 
     public void SetAttackFront()
     {
@@ -127,7 +133,11 @@ public class NPC : MonoBehaviour
 
         head.Play(anim);
         body.Play(anim);
-        horse.Play("Fight");
+        
+        
+        //horse.Play("Fight");
+        horse.Play("Run");
+
         //head.GetCurrentAnimation().speed = animSpeed;
         //body.GetCurrentAnimation().speed = animSpeed;
         //horse.GetCurrentAnimation().speed = animSpeed;
@@ -204,8 +214,8 @@ public class NPC : MonoBehaviour
         transform.localPosition = new Vector3(transform.localPosition.x + dir.x * runSpeed * Time.deltaTime, transform.localPosition.y + dir.y * runSpeed * Time.deltaTime, transform.localPosition.z);
     }
 
-    private bool isMightyHit;
-    void OnFightingAct()
+    protected bool isMightyHit;
+    protected virtual void OnFightingAct()
     {
         int damage = 0;
         if (!isMightyHit)
@@ -218,13 +228,9 @@ public class NPC : MonoBehaviour
         }
 
         OnDamage(damage);
-        //if (CheckInRange(new Vector3(transform.position.x + 10, transform.position.y)))
-        //{
-        //    OnDamage(damage);
-        //}
     }
 
-    bool IsDirLeft()
+    protected bool IsDirLeft()
     {
         return this.transform.localScale.x > 0;
     }
