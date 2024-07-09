@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2055322909, guid: 407ad56043b7f4d219244228bc294e31, type: 3}
+  m_Name: MagicMoonArrow - EditorInfo
+  m_EditorClassIdentifier: 
+  atlasName: MagicMoonArrow
+  width: 256
+  height: 256
+  elements:
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 69e271566e7b4446f9818a546320f25d, type: 3}
+    coord: 7500000056000000
+    trimRect:
+      serializedVersion: 2
+      x: 84
+      y: 0
+      width: 124
+      height: 68
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: c41b3edd095664e64a79df06782aed2e, type: 3}
+    coord: 0200000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 78
+      y: 2
+      width: 124
+      height: 82
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 306d3a9ff609743fa87683fff2ed6804, type: 3}
+    coord: 020000009c000000
+    trimRect:
+      serializedVersion: 2
+      x: 52
+      y: 0
+      width: 58
+      height: 8
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 7402edd40b6b043bca50c0e61a6eb39d, type: 3}
+    coord: 0200000056000000
+    trimRect:
+      serializedVersion: 2
+      x: 81
+      y: 0
+      width: 113
+      height: 68
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: db844bb620c544386ba7477b479f3b1e, type: 3}
+    coord: 8000000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 70
+      y: 1
+      width: 112
+      height: 77
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  atlas: {fileID: 11400000, guid: f4d6a922e448efe41845b3545bdcf220, type: 2}
+  texture: {fileID: 2800000, guid: d4e1e72e6d319734d8b3698e03826ba8, type: 3}
+  material: {fileID: 2100000, guid: 2592341eec446084fa063e119b2eed06, type: 2}
+  useBuildColor: 0
+  buildColor: {r: 1, g: 1, b: 1, a: 0}
+  foldCanvas: 1
+  bgColor: {r: 1, g: 1, b: 1, a: 1}
+  showCheckerboard: 1
+  foldLayout: 1
+  algorithm: 1
+  sortBy: 0
+  sortOrder: 0
+  padding: 2
+  allowRotate: 0
+  foldElement: 1
+  elementBgColor: {r: 1, g: 1, b: 1, a: 0}
+  elementSelectColor: {r: 0, g: 0, b: 1, a: 1}
+  scale: 1
+  bitmapFonts: []
+  rebuildAnimClipGUIDs: []
+  needUpdateAnimClips: 0
+  needRebuild: 0
+  needLayout: 0

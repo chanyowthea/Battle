@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 0.33333334
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: f561665e2500b4ded9d27ddad476eb8b
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: c0839d96f0a0a41c3a0f9187c01b5f47, type: 2}
+    index: 27
+  - textureGUID: 2a9315dea69e74d6b9af1beda9abf34f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: c0839d96f0a0a41c3a0f9187c01b5f47, type: 2}
+    index: 28
+  eventInfos: []
+  speed: 0.5
+  editorPreviewSize: 256
+  editorScale: 1
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

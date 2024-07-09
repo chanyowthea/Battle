@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2055322909, guid: 407ad56043b7f4d219244228bc294e31, type: 3}
+  m_Name: MagicLightningStroke - EditorInfo
+  m_EditorClassIdentifier: 
+  atlasName: MagicLightningStroke
+  width: 512
+  height: 512
+  elements:
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 0c629da6f979541e38e5e50f12689d45, type: 3}
+    coord: 9100000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 120
+      height: 249
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: c20ee1c0d371a4fc9981d692bfc74aa8, type: 3}
+    coord: 890100007f000000
+    trimRect:
+      serializedVersion: 2
+      x: 7
+      y: 0
+      width: 81
+      height: 68
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 97ea0e735ca0c4b9d81dbf4061993f09, type: 3}
+    coord: aa000000fd000000
+    trimRect:
+      serializedVersion: 2
+      x: 7
+      y: 0
+      width: 99
+      height: 68
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 2b28dbb82ad87486e83375ace9ae1c77, type: 3}
+    coord: 0f010000fd000000
+    trimRect:
+      serializedVersion: 2
+      x: 9
+      y: 0
+      width: 71
+      height: 55
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 7815adc259d0b4b49b7bb98b511fa3e6, type: 3}
+    coord: 02000000fd000000
+    trimRect:
+      serializedVersion: 2
+      x: 20
+      y: 0
+      width: 166
+      height: 248
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 954ac439493724f44ae6da1856a72275, type: 3}
+    coord: 0200000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 141
+      height: 249
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: a1c88b21a01ff4723afe530e53c8c206, type: 3}
+    coord: 0b01000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 124
+      height: 248
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 592be2d549dc1487dbf79fd76356cf60, type: 3}
+    coord: 8901000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 24
+      y: 0
+      width: 102
+      height: 123
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  atlas: {fileID: 11400000, guid: 296760480d22ff44e8d518c0d033247c, type: 2}
+  texture: {fileID: 2800000, guid: 76a547b34f2f1c94b94af625a6156f48, type: 3}
+  material: {fileID: 2100000, guid: 0d5f39f8c50da8446a6493a5554e5a35, type: 2}
+  useBuildColor: 0
+  buildColor: {r: 1, g: 1, b: 1, a: 0}
+  foldCanvas: 1
+  bgColor: {r: 1, g: 1, b: 1, a: 1}
+  showCheckerboard: 1
+  foldLayout: 1
+  algorithm: 1
+  sortBy: 0
+  sortOrder: 0
+  padding: 2
+  allowRotate: 0
+  foldElement: 1
+  elementBgColor: {r: 1, g: 1, b: 1, a: 0}
+  elementSelectColor: {r: 0, g: 0, b: 1, a: 1}
+  scale: 1
+  bitmapFonts: []
+  rebuildAnimClipGUIDs: []
+  needUpdateAnimClips: 0
+  needRebuild: 0
+  needLayout: 0

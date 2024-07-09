@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Flag3
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 25efde35a277a48c69eb565282a81ec4
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: b405081c7b7624af288c26d497448626, type: 2}
+    index: 24
+  - textureGUID: 2a8583cf672fb4be79160a41fa5b1df1
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: b405081c7b7624af288c26d497448626, type: 2}
+    index: 25
+  - textureGUID: c1a942a253ff5432f97ea4e565e5502a
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: b405081c7b7624af288c26d497448626, type: 2}
+    index: 26
+  - textureGUID: 731fe303152064c6b83f25e5441a51d0
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: b405081c7b7624af288c26d497448626, type: 2}
+    index: 27
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 1
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

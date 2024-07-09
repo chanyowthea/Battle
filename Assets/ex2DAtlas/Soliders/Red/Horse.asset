@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Horse
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1141-1
+    originalWidth: 92
+    originalHeight: 154
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 87
+      height: 80
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.01953125
+      width: 0.33984375
+      height: 0.3125
+    rotated: 0
+  - name: 1142-1
+    originalWidth: 96
+    originalHeight: 154
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 0
+      width: 95
+      height: 80
+    coords:
+      serializedVersion: 2
+      x: 0.35546875
+      y: 0.01953125
+      width: 0.37109375
+      height: 0.3125
+    rotated: 0
+  - name: 1143-1
+    originalWidth: 108
+    originalHeight: 158
+    trimRect:
+      serializedVersion: 2
+      x: 7
+      y: 0
+      width: 101
+      height: 82
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.33984375
+      width: 0.39453125
+      height: 0.3203125
+    rotated: 0
+  - name: 1144-1
+    originalWidth: 114
+    originalHeight: 160
+    trimRect:
+      serializedVersion: 2
+      x: 10
+      y: 0
+      width: 104
+      height: 83
+    coords:
+      serializedVersion: 2
+      x: 0.40625
+      y: 0.66796875
+      width: 0.40625
+      height: 0.32421875
+    rotated: 0
+  - name: 1145-1
+    originalWidth: 106
+    originalHeight: 160
+    trimRect:
+      serializedVersion: 2
+      x: 6
+      y: 0
+      width: 100
+      height: 83
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.66796875
+      width: 0.390625
+      height: 0.32421875
+    rotated: 0
+  - name: 1146-1
+    originalWidth: 92
+    originalHeight: 154
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: 80
+    coords:
+      serializedVersion: 2
+      x: 0.41015625
+      y: 0.34765625
+      width: 0.359375
+      height: 0.3125
+    rotated: 0
+  material: {fileID: 2100000, guid: 703a54e9da5754c24a1d394b7674d2fc, type: 2}
+  texture: {fileID: 2800000, guid: c39fe4350467445c4b8504de641994d7, type: 3}

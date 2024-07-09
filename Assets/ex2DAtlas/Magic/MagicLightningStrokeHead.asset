@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicLightningStrokeHead
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1410-1
+    originalWidth: 116
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 3
+      y: 0
+      width: 113
+      height: 546
+    coords:
+      serializedVersion: 2
+      x: 0.39648438
+      y: 0.46484375
+      width: 0.22070312
+      height: 0.5332031
+    rotated: 0
+  - name: 1411-1
+    originalWidth: 205
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 199
+      height: 580
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.43164062
+      width: 0.38867188
+      height: 0.56640625
+    rotated: 0
+  material: {fileID: 2100000, guid: ae8e51ba61c4d3142b1c8d908900edc3, type: 2}
+  texture: {fileID: 2800000, guid: b0e9304f1ecca2742bc3012637613b2e, type: 3}

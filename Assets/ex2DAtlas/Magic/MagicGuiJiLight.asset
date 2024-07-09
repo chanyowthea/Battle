@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicGuiJiLight
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1440-1
+    originalWidth: 108
+    originalHeight: 124
+    trimRect:
+      serializedVersion: 2
+      x: 19
+      y: 35
+      width: 89
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.71484375
+      y: 0.64453125
+      width: 0.17382812
+      height: 0.34765625
+    rotated: 0
+  - name: 1441-1
+    originalWidth: 126
+    originalHeight: 90
+    trimRect:
+      serializedVersion: 2
+      x: 37
+      y: 0
+      width: 89
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.5371094
+      y: 0.64453125
+      width: 0.17382812
+      height: 0.34765625
+    rotated: 0
+  - name: 1442-1
+    originalWidth: 108
+    originalHeight: 126
+    trimRect:
+      serializedVersion: 2
+      x: 19
+      y: 0
+      width: 89
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.2890625
+      width: 0.17382812
+      height: 0.34765625
+    rotated: 0
+  - name: 1443-1
+    originalWidth: 112
+    originalHeight: 126
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 89
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.359375
+      y: 0.64453125
+      width: 0.17382812
+      height: 0.34765625
+    rotated: 0
+  - name: 1444-1
+    originalWidth: 132
+    originalHeight: 92
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 89
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.64453125
+      width: 0.17382812
+      height: 0.34765625
+    rotated: 0
+  - name: 1445-1
+    originalWidth: 110
+    originalHeight: 118
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 29
+      width: 89
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.18164062
+      y: 0.64453125
+      width: 0.17382812
+      height: 0.34765625
+    rotated: 0
+  material: {fileID: 2100000, guid: 6d4ad842df9d9ab4bb66e57e4b8c056a, type: 2}
+  texture: {fileID: 2800000, guid: f5398346e17240d46ae0615d2f73d71d, type: 3}

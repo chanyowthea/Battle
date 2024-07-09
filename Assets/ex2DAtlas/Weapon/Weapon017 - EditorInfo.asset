@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2055322909, guid: 407ad56043b7f4d219244228bc294e31, type: 3}
+  m_Name: Weapon017 - EditorInfo
+  m_EditorClassIdentifier: 
+  atlasName: Weapon017
+  width: 128
+  height: 128
+  elements:
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 0777fb51ae4604056955feafe87da976, type: 3}
+    coord: 4300000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 5
+      width: 31
+      height: 51
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 923254ac3de8943d5baa1c537f239e1f, type: 3}
+    coord: 0200000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 3
+      y: 5
+      width: 31
+      height: 51
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 331a43244fbab4c19b864d52c251888c, type: 3}
+    coord: 220000004b000000
+    trimRect:
+      serializedVersion: 2
+      x: 5
+      y: 1
+      width: 59
+      height: 17
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 3c2c201653ea845ec93a5ac54d1c4404, type: 3}
+    coord: 2300000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 30
+      height: 51
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 6efef2dcd19414f77bf7590352eff15c, type: 3}
+    coord: 0200000037000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 30
+      height: 50
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: bd423b00f1dcf4842858724286e62ef4, type: 3}
+    coord: 2200000037000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 2
+      width: 58
+      height: 18
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  atlas: {fileID: 11400000, guid: 6630261bcf1284b2ca45750404000677, type: 2}
+  texture: {fileID: 2800000, guid: 41602f7b63abe4ea8b3d49cfc26da9fc, type: 3}
+  material: {fileID: 2100000, guid: d2d99b43dde494c11bf6d2fe985c4284, type: 2}
+  useBuildColor: 0
+  buildColor: {r: 1, g: 1, b: 1, a: 0}
+  foldCanvas: 1
+  bgColor: {r: 1, g: 1, b: 1, a: 1}
+  showCheckerboard: 1
+  foldLayout: 1
+  algorithm: 1
+  sortBy: 0
+  sortOrder: 0
+  padding: 2
+  allowRotate: 0
+  foldElement: 1
+  elementBgColor: {r: 1, g: 1, b: 1, a: 0}
+  elementSelectColor: {r: 0, g: 0, b: 1, a: 1}
+  scale: 1
+  bitmapFonts: []
+  rebuildAnimClipGUIDs:
+  - 3032180b703fb430bafa5a670e60bd25
+  needUpdateAnimClips: 0
+  needRebuild: 0
+  needLayout: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Dart
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: f9cf884e29e594a4da6e2a3941449c7b
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 72975061b4c4246dea66a1ce9372b26f, type: 2}
+    index: 38
+  - textureGUID: ac39a9f728aa24a92beda346686c177f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 72975061b4c4246dea66a1ce9372b26f, type: 2}
+    index: 39
+  - textureGUID: 6f2d9014019bd442d9719989b4d240b4
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 72975061b4c4246dea66a1ce9372b26f, type: 2}
+    index: 40
+  - textureGUID: e048e2977c9f24d9e8c08d8edb6fa196
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 72975061b4c4246dea66a1ce9372b26f, type: 2}
+    index: 41
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 0.47546795
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

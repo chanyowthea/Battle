@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 6ec2471e175984589b76b9629e53071d
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 4a43639dc619c4224a9f7f52a4831980, type: 2}
+    index: 30
+  - textureGUID: 3d867c7d6cdc04ab7b41df6a0ebe5aa5
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 4a43639dc619c4224a9f7f52a4831980, type: 2}
+    index: 31
+  - textureGUID: 6187ed90c01b24540942d32514ff5965
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 4a43639dc619c4224a9f7f52a4831980, type: 2}
+    index: 32
+  - textureGUID: f0ce27fc4a59f41ea989b5ed79f90879
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 4a43639dc619c4224a9f7f52a4831980, type: 2}
+    index: 33
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 0.47196782
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

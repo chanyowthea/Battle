@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicTuShi
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1413-1
+    originalWidth: 30
+    originalHeight: 68
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 27
+      height: 25
+    coords:
+      serializedVersion: 2
+      x: 0.35546875
+      y: 0.1796875
+      width: 0.10546875
+      height: 0.1953125
+    rotated: 0
+  - name: 1502-1
+    originalWidth: 36
+    originalHeight: 68
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 32
+      height: 25
+    coords:
+      serializedVersion: 2
+      x: 0.22265625
+      y: 0.1796875
+      width: 0.125
+      height: 0.1953125
+    rotated: 0
+  - name: 1503-1
+    originalWidth: 42
+    originalHeight: 118
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 40
+      height: 50
+    coords:
+      serializedVersion: 2
+      x: 0.62890625
+      y: 0.59375
+      width: 0.15625
+      height: 0.390625
+    rotated: 0
+  - name: 1504-1
+    originalWidth: 56
+    originalHeight: 148
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 53
+      height: 76
+    coords:
+      serializedVersion: 2
+      x: 0.22265625
+      y: 0.390625
+      width: 0.20703125
+      height: 0.59375
+    rotated: 0
+  - name: 1505-1
+    originalWidth: 42
+    originalHeight: 118
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 39
+      height: 50
+    coords:
+      serializedVersion: 2
+      x: 0.79296875
+      y: 0.59375
+      width: 0.15234375
+      height: 0.390625
+    rotated: 0
+  - name: 1506-1
+    originalWidth: 52
+    originalHeight: 168
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 47
+      height: 75
+    coords:
+      serializedVersion: 2
+      x: 0.4375
+      y: 0.3984375
+      width: 0.18359375
+      height: 0.5859375
+    rotated: 0
+  - name: 1507-1
+    originalWidth: 58
+    originalHeight: 202
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 53
+      height: 103
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.1796875
+      width: 0.20703125
+      height: 0.8046875
+    rotated: 0
+  - name: 1508-1
+    originalWidth: 58
+    originalHeight: 18
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 53
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: 0.62890625
+      y: 0.4921875
+      width: 0.20703125
+      height: 0.0859375
+    rotated: 0
+  material: {fileID: 2100000, guid: 010d8eed5daac654593c39cb61c3e308, type: 2}
+  texture: {fileID: 2800000, guid: a9e383e1c67c540438ecdff2edc93058, type: 3}

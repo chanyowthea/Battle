@@ -1,0 +1,1152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2055322909, guid: 407ad56043b7f4d219244228bc294e31, type: 3}
+  m_Name: General029 - EditorInfo
+  m_EditorClassIdentifier: 
+  atlasName: General029
+  width: 1024
+  height: 512
+  elements:
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 4d452d12cd772409f833571b55fc1741, type: 3}
+    coord: 3b01000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 36
+      y: 0
+      width: 110
+      height: 103
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 1e32c2700d7484b8090b6ec9e118a785, type: 3}
+    coord: 28020000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 82
+      y: 0
+      width: 126
+      height: 77
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 54a60a915ad754eccbce66635526138a, type: 3}
+    coord: 6101000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 124
+      height: 56
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: dba133a6b2b7b48f8b3ec0c537676d57, type: 3}
+    coord: 020000007c010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 120
+      height: 54
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: b85be87538297494ca61ed913c7e2da8, type: 3}
+    coord: 5a03000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 57
+      height: 86
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: cdc378c74bb2c4c789b7b645e19ca837, type: 3}
+    coord: cb01000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 51
+      height: 98
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: e20ca217501fa4fb9be356ca1eb9d5d6, type: 3}
+    coord: 78000000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 82
+      y: 0
+      width: 132
+      height: 80
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 0282eaa3f986a41e684ee67f039bdc00, type: 3}
+    coord: 9503000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 10
+      y: 0
+      width: 64
+      height: 82
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: e5fffee1688094e5995c1ada33dda5a8, type: 3}
+    coord: 1f00000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 11
+      y: 0
+      width: 53
+      height: 152
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 0c917e755fc994ff1b06a0c693116b4d, type: 3}
+    coord: 3d010000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 76
+      y: 0
+      width: 114
+      height: 78
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: f059f2652cae54f668d5ee18b2fd23c6, type: 3}
+    coord: 6f000000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 106
+      height: 68
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: b47d72754f7f646d7984d294590e65b1, type: 3}
+    coord: aa020000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 116
+      height: 57
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: e2f103d1c97724ca79b21f226a1d46c4, type: 3}
+    coord: f5020000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 100
+      height: 73
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: cbbea23cf0a2e449896d62de8a46cb35, type: 3}
+    coord: 30020000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 120
+      height: 57
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 3074aab25c00b4cd6be13efc906e5de5, type: 3}
+    coord: 7400000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 120
+      height: 57
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: ede6a4013e623474290d6e1151aa16f5, type: 3}
+    coord: 5102000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 121
+      height: 55
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 81ceeb6d1577041c6ba71b7e29b5849f, type: 3}
+    coord: cb00000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 36
+      y: 0
+      width: 110
+      height: 103
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 7bec7c11f634a4467b71ab4a53899e8b, type: 3}
+    coord: b1010000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 97
+      y: 0
+      width: 117
+      height: 77
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 8782cd7c564844fa998d2152a75a4c6d, type: 3}
+    coord: 7c0000007c010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 122
+      height: 54
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: e5c17a4d7eb214bd0b5e25954b4b706a, type: 3}
+    coord: 4503000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 120
+      height: 54
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 35fa2969db1e44487bc0b5703d688956, type: 3}
+    coord: 0200000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 27
+      height: 161
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 7f9190b69c2be455c9cccd6c671496e8, type: 3}
+    coord: 02000000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 116
+      height: 84
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: d08bc5ce24c3940d095acc31995a2439, type: 3}
+    coord: ab01000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 30
+      height: 101
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: c3fb7b007f83645678aff50cec5bd156, type: 3}
+    coord: 560000006f000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 64
+      height: 43
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: fd2ad416fe51b48639cfb3802e357f19, type: 3}
+    coord: 980000006f000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 60
+      height: 35
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 7212a5dbbfb964c43b29641c6a75bfaf, type: 3}
+    coord: d60000006f000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 66
+      height: 28
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: f6a07902105d5441ba6af285fd90bd5f, type: 3}
+    coord: 02000000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 107
+      height: 68
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 1d8f29fafbefb420e9fc01050a750edc, type: 3}
+    coord: fc02000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: 89
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 26bf566c2c515495591b9350b708ecc2, type: 3}
+    coord: ee00000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 113
+      height: 57
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 4712de5abb5234dd796d05d01af2444e, type: 3}
+    coord: 4c010000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 112
+      height: 58
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 3f80ada2790ae4ee5b264c6aab500b62, type: 3}
+    coord: df01000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 112
+      height: 56
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 92da51fe4ecc54d3992cf89b7ac3d052, type: 3}
+    coord: 0200000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 112
+      height: 57
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: a0c9142c149d04ac8a172a5fe33f57a3, type: 3}
+    coord: 20030000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 113
+      height: 57
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 12762362238404ad580a462e8822fba0, type: 3}
+    coord: be010000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 112
+      height: 58
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 1cc7cebd34881480eadff01d2bd72eb7, type: 3}
+    coord: 85030000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 40
+      height: 69
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 9d8bdf89dae414e4d821b74fc50bb2aa, type: 3}
+    coord: a8020000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 75
+      height: 75
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: a2c9cb2b46bdb4ba3bb5a30b6f64812d, type: 3}
+    coord: fe000000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 61
+      height: 80
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 66231d9ca2e944d8eab240d06f5632b0, type: 3}
+    coord: 5b030000a5000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 40
+      height: 69
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 1cab7c1d7abb748849d862922392ad61, type: 3}
+    coord: 0002000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 80
+      height: 97
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 23dc9800f500e41f6bc06abbfeb97d3a, type: 3}
+    coord: 5600000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 115
+      height: 107
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: cde1899aa971a4acb894bc24701b7282, type: 3}
+    coord: cc02000041010000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 119
+      height: 55
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 857bbb10e406f4256bfefdfbb150449b, type: 3}
+    coord: db000000fb000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 111
+      height: 63
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 8b11ca9e7514543fca90adc8088124a7, type: 3}
+    coord: 5202000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 83
+      height: 96
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  - rotated: 0
+    trim: 1
+    atlasInfo: {fileID: 11400000}
+    texture: {fileID: 2800000, guid: 77040dae99b754333b8484c2c87728c1, type: 3}
+    coord: a702000002000000
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 83
+      height: 95
+    isFontElement: 0
+    srcFontInfo: {fileID: 0}
+    destFontInfo: {fileID: 0}
+    charInfo:
+      id: -1
+      x: -1
+      y: -1
+      width: -1
+      height: -1
+      xoffset: -1
+      yoffset: -1
+      xadvance: -1
+      page: -1
+      uv0: {x: 0, y: 0}
+  atlas: {fileID: 11400000, guid: 54a940905be9c4eb7ad16d12359bbbde, type: 2}
+  texture: {fileID: 2800000, guid: 89455186dd1ff40f2a9b501372242e4c, type: 3}
+  material: {fileID: 2100000, guid: 95e7a9a1f36b840cb8e3cca926fe3525, type: 2}
+  useBuildColor: 0
+  buildColor: {r: 1, g: 1, b: 1, a: 0}
+  foldCanvas: 1
+  bgColor: {r: 1, g: 1, b: 1, a: 1}
+  showCheckerboard: 1
+  foldLayout: 1
+  algorithm: 1
+  sortBy: 0
+  sortOrder: 0
+  padding: 2
+  allowRotate: 0
+  foldElement: 1
+  elementBgColor: {r: 1, g: 1, b: 1, a: 0}
+  elementSelectColor: {r: 0, g: 0, b: 1, a: 1}
+  scale: 1
+  bitmapFonts: []
+  rebuildAnimClipGUIDs:
+  - 22e8e19898b524f608cf5efd34cc457e
+  - 4e96c1c579ce741059c56b1257c0bb2d
+  - 886db2e83b6844a82afe673a096e5d74
+  - 61465cd0c0ea34f6bb27dc6b3e93f1b7
+  - 438bae45cb4014eb2a381af5fb1827f1
+  - 4f54fab770ef54aac91d602af01eca75
+  - 7c899435fd1f847b5abdbc54a8116b12
+  - 6bb8ed0cd364643d19f738725dbced87
+  - 6fd2e0db49405417eb3e9c6f0222d4bc
+  - 7c984e7f54365470dbbd0dcf8ddab3fb
+  - b4b2a7e1e585c466d8daea04d2465883
+  - 1aa385408399345e59d65d31652deb9e
+  needUpdateAnimClips: 0
+  needRebuild: 0
+  needLayout: 0

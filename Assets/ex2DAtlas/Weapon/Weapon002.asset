@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Weapon002
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 2792-1
+    originalWidth: 54
+    originalHeight: 94
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 5
+      width: 52
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.2890625
+      width: 0.203125
+      height: 0.6953125
+    rotated: 0
+  - name: 2793-1
+    originalWidth: 58
+    originalHeight: 98
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 9
+      width: 57
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.66015625
+      y: 0.2890625
+      width: 0.22265625
+      height: 0.6953125
+    rotated: 0
+  - name: 2794-1
+    originalWidth: 104
+    originalHeight: 18
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 7
+      width: 103
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: 0.421875
+      y: 0.1875
+      width: 0.40234375
+      height: 0.0859375
+    rotated: 0
+  - name: 2795-1
+    originalWidth: 58
+    originalHeight: 98
+    trimRect:
+      serializedVersion: 2
+      x: 6
+      y: 9
+      width: 52
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.21875
+      y: 0.2890625
+      width: 0.203125
+      height: 0.6953125
+    rotated: 0
+  - name: 2796-1
+    originalWidth: 58
+    originalHeight: 94
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 5
+      width: 57
+      height: 89
+    coords:
+      serializedVersion: 2
+      x: 0.4296875
+      y: 0.2890625
+      width: 0.22265625
+      height: 0.6953125
+    rotated: 0
+  - name: 2797-1
+    originalWidth: 106
+    originalHeight: 20
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 8
+      width: 104
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.1796875
+      width: 0.40625
+      height: 0.09375
+    rotated: 0
+  material: {fileID: 2100000, guid: 9e35250e5c9ee4b849b75e3c1a420b62, type: 2}
+  texture: {fileID: 2800000, guid: ca799ba9560ea407f8ef38bdcb5db649, type: 3}

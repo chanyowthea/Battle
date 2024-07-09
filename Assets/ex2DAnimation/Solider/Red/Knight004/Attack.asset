@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Attack
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: cae8ff77eae634d61ae2eac5f5c71be6
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: dc8748433de9b47eb8c6f7ca8c8f450d, type: 2}
+    index: 8
+  - textureGUID: 183960bda8244418a81d298e7240f1e5
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: dc8748433de9b47eb8c6f7ca8c8f450d, type: 2}
+    index: 9
+  - textureGUID: 3550b0021ecb347f982aecf5d315a49b
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: dc8748433de9b47eb8c6f7ca8c8f450d, type: 2}
+    index: 10
+  - textureGUID: 9cfd34a82f16749fbbc7ab903040771e
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: dc8748433de9b47eb8c6f7ca8c8f450d, type: 2}
+    index: 11
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 0.48496872
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

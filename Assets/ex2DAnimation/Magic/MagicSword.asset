@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicSword
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: 1.3333333
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: fb9e5a0d5dec144a98c5be735cca6d98
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 1
+  - textureGUID: b7397ce03bb8f46bbb23facd60344938
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 2
+  - textureGUID: 9615e3c6d029f443b9addcf242b13604
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 3
+  - textureGUID: 5f6e74dd327e4424db49210633c0930e
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 4
+  - textureGUID: defab2a31865e472e9c25613fbf3cce4
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 5
+  - textureGUID: b276a3d44e4924dd78c6ea25862b5470
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 6
+  - textureGUID: b83aae39b28d04300aaf22ef9ca67ad5
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 7
+  - textureGUID: 209c719f2eb8142f5970597f0112def3
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1a4e9a55de75a194698eef1c1d66cd2a, type: 2}
+    index: 0
+  eventInfos: []
+  speed: 2
+  editorPreviewSize: 256
+  editorScale: 0.5500003
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

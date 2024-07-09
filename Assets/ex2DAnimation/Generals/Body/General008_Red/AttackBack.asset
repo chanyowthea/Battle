@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: AttackBack
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 2172414ec2faa4873a36e792a03ee013
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: bfba210b55fdf41958df07e0e7a39894, type: 2}
+    index: 2
+  - textureGUID: c5ff724100cca4db5b6a16806a9bd61e
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: bfba210b55fdf41958df07e0e7a39894, type: 2}
+    index: 3
+  - textureGUID: d299d35e02f1a47db9f6c1894de14d40
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: bfba210b55fdf41958df07e0e7a39894, type: 2}
+    index: 4
+  - textureGUID: 9cbd5444c6c304294a8aec9add87651a
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: bfba210b55fdf41958df07e0e7a39894, type: 2}
+    index: 5
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 0.40446374
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

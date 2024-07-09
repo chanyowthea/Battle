@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: ArymEscapeUp
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 6cc4943baf9fd4f6a9f01df9b77afcb3
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 22
+  - textureGUID: 112b4fbedb12d4efca070ef2269edf86
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 28
+  - textureGUID: e794dbefbd2ea4fd5b25e33f095509fd
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 34
+  - textureGUID: 92ced42362e094b6893cb650b168196f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 39
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 1
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

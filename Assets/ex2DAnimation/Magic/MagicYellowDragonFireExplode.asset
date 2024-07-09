@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicYellowDragonFireExplode
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 3
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 07193a256a4a148f3930e3a05e58df9f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 75ad2c225f2bc764fbd1227ce87af9d4, type: 2}
+    index: 4
+  - textureGUID: 3c1cb214101a24718936eda0de145d08
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 75ad2c225f2bc764fbd1227ce87af9d4, type: 2}
+    index: 8
+  - textureGUID: 0236c844e01184553b50ef01d4413f73
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 75ad2c225f2bc764fbd1227ce87af9d4, type: 2}
+    index: 7
+  - textureGUID: f535db83607214e99ad9fc2470084a08
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 75ad2c225f2bc764fbd1227ce87af9d4, type: 2}
+    index: 5
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 1
+  editorOffset: 0
+  editorSpeed: 2
+  editorNeedRebuild: 0

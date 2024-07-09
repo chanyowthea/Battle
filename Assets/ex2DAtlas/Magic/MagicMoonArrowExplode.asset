@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicMoonArrowExplode
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1539-1
+    originalWidth: 58
+    originalHeight: 58
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 56
+      height: 56
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.53125
+      width: 0.21875
+      height: 0.21875
+    rotated: 0
+  - name: 1540-1
+    originalWidth: 60
+    originalHeight: 56
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 58
+      height: 56
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.3046875
+      width: 0.2265625
+      height: 0.21875
+    rotated: 0
+  - name: 1541-1
+    originalWidth: 60
+    originalHeight: 58
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 60
+      height: 58
+    coords:
+      serializedVersion: 2
+      x: 0.4921875
+      y: 0.765625
+      width: 0.234375
+      height: 0.2265625
+    rotated: 0
+  - name: 1542-1
+    originalWidth: 60
+    originalHeight: 60
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 60
+      height: 60
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.7578125
+      width: 0.234375
+      height: 0.234375
+    rotated: 0
+  - name: 1544-1
+    originalWidth: 58
+    originalHeight: 56
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 0
+      width: 57
+      height: 56
+    coords:
+      serializedVersion: 2
+      x: 0.234375
+      y: 0.53125
+      width: 0.22265625
+      height: 0.21875
+    rotated: 0
+  - name: 1545-1
+    originalWidth: 56
+    originalHeight: 56
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 56
+      height: 56
+    coords:
+      serializedVersion: 2
+      x: 0.46484375
+      y: 0.53125
+      width: 0.21875
+      height: 0.21875
+    rotated: 0
+  - name: 1546-1
+    originalWidth: 58
+    originalHeight: 58
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 2
+      width: 58
+      height: 56
+    coords:
+      serializedVersion: 2
+      x: 0.69140625
+      y: 0.53125
+      width: 0.2265625
+      height: 0.21875
+    rotated: 0
+  - name: 1547-1
+    originalWidth: 60
+    originalHeight: 58
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 60
+      height: 58
+    coords:
+      serializedVersion: 2
+      x: 0.734375
+      y: 0.765625
+      width: 0.234375
+      height: 0.2265625
+    rotated: 0
+  - name: 1548-1
+    originalWidth: 60
+    originalHeight: 60
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 60
+      height: 60
+    coords:
+      serializedVersion: 2
+      x: 0.25
+      y: 0.7578125
+      width: 0.234375
+      height: 0.234375
+    rotated: 0
+  - name: 1549-1
+    originalWidth: 58
+    originalHeight: 56
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 0
+      width: 57
+      height: 56
+    coords:
+      serializedVersion: 2
+      x: 0.2421875
+      y: 0.3046875
+      width: 0.22265625
+      height: 0.21875
+    rotated: 0
+  material: {fileID: 2100000, guid: 67ef8fad8d8650c4f8ecc9e0da6601da, type: 2}
+  texture: {fileID: 2800000, guid: 56fa570a61a60484c902ebeb07b1f398, type: 3}

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicShenGuiHuanWu
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1534-1
+    originalWidth: 66
+    originalHeight: 32
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 0
+      width: 49
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: 0.75390625
+      y: 0.75
+      width: 0.19140625
+      height: 0.234375
+    rotated: 0
+  - name: 1535-1
+    originalWidth: 70
+    originalHeight: 56
+    trimRect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 54
+      height: 44
+    coords:
+      serializedVersion: 2
+      x: 0.53515625
+      y: 0.640625
+      width: 0.2109375
+      height: 0.34375
+    rotated: 0
+  - name: 1550-1
+    originalWidth: 136
+    originalHeight: 208
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 82
+      height: 116
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.078125
+      width: 0.3203125
+      height: 0.90625
+    rotated: 0
+  - name: 1551-1
+    originalWidth: 64
+    originalHeight: 48
+    trimRect:
+      serializedVersion: 2
+      x: 15
+      y: 0
+      width: 49
+      height: 46
+    coords:
+      serializedVersion: 2
+      x: 0.3359375
+      y: 0.625
+      width: 0.19140625
+      height: 0.359375
+    rotated: 0
+  material: {fileID: 2100000, guid: 86f02b594cd677d48b511d7e9818f133, type: 2}
+  texture: {fileID: 2800000, guid: 8ee3cd0a46ff9d34ca950394284d1c7b, type: 3}

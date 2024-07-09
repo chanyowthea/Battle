@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Horse004
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 2750-1
+    originalWidth: 98
+    originalHeight: 164
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: 85
+    coords:
+      serializedVersion: 2
+      x: 0.1875
+      y: 0.6542969
+      width: 0.1796875
+      height: 0.16601562
+    rotated: 0
+  - name: 2751-1
+    originalWidth: 96
+    originalHeight: 166
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 91
+      height: 86
+    coords:
+      serializedVersion: 2
+      x: 0.34570312
+      y: 0.828125
+      width: 0.17773438
+      height: 0.16796875
+    rotated: 0
+  - name: 2752-1
+    originalWidth: 88
+    originalHeight: 170
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 84
+      height: 88
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.82421875
+      width: 0.1640625
+      height: 0.171875
+    rotated: 0
+  - name: 2753-1
+    originalWidth: 92
+    originalHeight: 168
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 87
+      height: 87
+    coords:
+      serializedVersion: 2
+      x: 0.171875
+      y: 0.8261719
+      width: 0.16992188
+      height: 0.16992188
+    rotated: 0
+  - name: 2754-1
+    originalWidth: 100
+    originalHeight: 158
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 93
+      height: 82
+    coords:
+      serializedVersion: 2
+      x: 0.20117188
+      y: 0.49023438
+      width: 0.18164062
+      height: 0.16015625
+    rotated: 0
+  - name: 2755-1
+    originalWidth: 100
+    originalHeight: 158
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 0
+      width: 99
+      height: 82
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.49023438
+      width: 0.19335938
+      height: 0.16015625
+    rotated: 0
+  - name: 2756-1
+    originalWidth: 112
+    originalHeight: 162
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 104
+      height: 84
+    coords:
+      serializedVersion: 2
+      x: 0.58203125
+      y: 0.65625
+      width: 0.203125
+      height: 0.1640625
+    rotated: 0
+  - name: 2757-1
+    originalWidth: 118
+    originalHeight: 164
+    trimRect:
+      serializedVersion: 2
+      x: 12
+      y: 0
+      width: 106
+      height: 85
+    coords:
+      serializedVersion: 2
+      x: 0.37109375
+      y: 0.6542969
+      width: 0.20703125
+      height: 0.16601562
+    rotated: 0
+  - name: 2758-1
+    originalWidth: 110
+    originalHeight: 164
+    trimRect:
+      serializedVersion: 2
+      x: 7
+      y: 0
+      width: 103
+      height: 85
+    coords:
+      serializedVersion: 2
+      x: 0.52734375
+      y: 0.8300781
+      width: 0.20117188
+      height: 0.16601562
+    rotated: 0
+  - name: 2759-1
+    originalWidth: 98
+    originalHeight: 158
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 97
+      height: 82
+    coords:
+      serializedVersion: 2
+      x: 0.7890625
+      y: 0.66015625
+      width: 0.18945312
+      height: 0.16015625
+    rotated: 0
+  - name: 2760-1
+    originalWidth: 98
+    originalHeight: 164
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: 85
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.6542969
+      width: 0.1796875
+      height: 0.16601562
+    rotated: 0
+  - name: 2761-1
+    originalWidth: 98
+    originalHeight: 164
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: 85
+    coords:
+      serializedVersion: 2
+      x: 0.7324219
+      y: 0.8300781
+      width: 0.1796875
+      height: 0.16601562
+    rotated: 0
+  material: {fileID: 2100000, guid: 799bd707e2c244fd9a41dba72a3cc10c, type: 2}
+  texture: {fileID: 2800000, guid: 38f27426ae6774817bf032558a01f55b, type: 3}

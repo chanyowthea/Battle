@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Run
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 1
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: cde3dfb88f2424604a7e2ef1a8286b94
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 273f106ba0bf4428c99c13389afeaf57, type: 2}
+    index: 4
+  - textureGUID: 6b7af0e37329c4162a1f176420a3c83e
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 273f106ba0bf4428c99c13389afeaf57, type: 2}
+    index: 5
+  - textureGUID: efc9e0c3ee7704563b3cb008a4aef196
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 273f106ba0bf4428c99c13389afeaf57, type: 2}
+    index: 6
+  - textureGUID: 3b6150627cac2442fa94f5bf54e81ec1
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 273f106ba0bf4428c99c13389afeaf57, type: 2}
+    index: 7
+  - textureGUID: 3d8e82bb2442444dc85a46ddce69eba4
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 273f106ba0bf4428c99c13389afeaf57, type: 2}
+    index: 8
+  - textureGUID: 3b3d13cea10db486a8b7a55425ffa43f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 273f106ba0bf4428c99c13389afeaf57, type: 2}
+    index: 9
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 0.33695954
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

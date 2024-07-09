@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicJuShi
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1345-1
+    originalWidth: 258
+    originalHeight: 620
+    trimRect:
+      serializedVersion: 2
+      x: 38
+      y: 0
+      width: 220
+      height: 314
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.3828125
+      width: 0.4296875
+      height: 0.61328125
+    rotated: 0
+  - name: 1346-1
+    originalWidth: 346
+    originalHeight: 428
+    trimRect:
+      serializedVersion: 2
+      x: 62
+      y: 0
+      width: 284
+      height: 218
+    coords:
+      serializedVersion: 2
+      x: 0.4375
+      y: 0.5703125
+      width: 0.5546875
+      height: 0.42578125
+    rotated: 0
+  material: {fileID: 2100000, guid: c133f6a1589dc6f4ca76398d379a5e3b, type: 2}
+  texture: {fileID: 2800000, guid: fa852e17daa546948b8e78891a5ddbe2, type: 3}

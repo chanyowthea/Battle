@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicChongChe
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1412-1
+    originalWidth: 204
+    originalHeight: 136
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 187
+      height: 75
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.69921875
+      width: 0.36523438
+      height: 0.29296875
+    rotated: 0
+  - name: 1422-1
+    originalWidth: 198
+    originalHeight: 136
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 184
+      height: 75
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.3984375
+      width: 0.359375
+      height: 0.29296875
+    rotated: 0
+  - name: 1423-1
+    originalWidth: 194
+    originalHeight: 136
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 182
+      height: 75
+    coords:
+      serializedVersion: 2
+      x: 0.3671875
+      y: 0.3984375
+      width: 0.35546875
+      height: 0.29296875
+    rotated: 0
+  - name: 1424-1
+    originalWidth: 190
+    originalHeight: 136
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 180
+      height: 75
+    coords:
+      serializedVersion: 2
+      x: 0.37304688
+      y: 0.69921875
+      width: 0.3515625
+      height: 0.29296875
+    rotated: 0
+  material: {fileID: 2100000, guid: d5e6006e00664ba4c9ff5a2bfdd28767, type: 2}
+  texture: {fileID: 2800000, guid: 2c28338f62ba35744bdd4d45dcd7c9d0, type: 3}

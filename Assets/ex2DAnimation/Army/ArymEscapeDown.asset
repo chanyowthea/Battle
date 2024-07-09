@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: ArymEscapeDown
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: b41a6b99ff6f345b4b1aee3372b838f3
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 23
+  - textureGUID: 1e2fe2332821742268d11d96251d8289
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 35
+  - textureGUID: 7922ef6e4535a4dcab6a19617ca7f94f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 36
+  - textureGUID: 030f4345245fa45e0919f7e7477a6968
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 37
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 0.8974938
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

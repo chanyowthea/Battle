@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicSword
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1452-1
+    originalWidth: 48
+    originalHeight: 130
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 48
+      height: 94
+    coords:
+      serializedVersion: 2
+      x: 0.3984375
+      y: 0.625
+      width: 0.1875
+      height: 0.3671875
+    rotated: 0
+  - name: 1453-1
+    originalWidth: 98
+    originalHeight: 102
+    trimRect:
+      serializedVersion: 2
+      x: 24
+      y: 0
+      width: 74
+      height: 76
+    coords:
+      serializedVersion: 2
+      x: 0.59375
+      y: 0.6953125
+      width: 0.2890625
+      height: 0.296875
+    rotated: 0
+  - name: 1454-1
+    originalWidth: 132
+    originalHeight: 48
+    trimRect:
+      serializedVersion: 2
+      x: 38
+      y: 0
+      width: 94
+      height: 48
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.125
+      width: 0.3671875
+      height: 0.1875
+    rotated: 0
+  - name: 1455-1
+    originalWidth: 102
+    originalHeight: 98
+    trimRect:
+      serializedVersion: 2
+      x: 26
+      y: 24
+      width: 76
+      height: 74
+    coords:
+      serializedVersion: 2
+      x: 0.6015625
+      y: 0.328125
+      width: 0.296875
+      height: 0.2890625
+    rotated: 0
+  - name: 1456-1
+    originalWidth: 50
+    originalHeight: 132
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 38
+      width: 48
+      height: 94
+    coords:
+      serializedVersion: 2
+      x: 0.203125
+      y: 0.625
+      width: 0.1875
+      height: 0.3671875
+    rotated: 0
+  - name: 1457-1
+    originalWidth: 98
+    originalHeight: 104
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 28
+      width: 74
+      height: 76
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.3203125
+      width: 0.2890625
+      height: 0.296875
+    rotated: 0
+  - name: 1458-1
+    originalWidth: 130
+    originalHeight: 50
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 2
+      width: 94
+      height: 48
+    coords:
+      serializedVersion: 2
+      x: 0.3828125
+      y: 0.125
+      width: 0.3671875
+      height: 0.1875
+    rotated: 0
+  - name: 1459-1
+    originalWidth: 96
+    originalHeight: 102
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 74
+      height: 76
+    coords:
+      serializedVersion: 2
+      x: 0.3046875
+      y: 0.3203125
+      width: 0.2890625
+      height: 0.296875
+    rotated: 0
+  - name: 1491-1
+    originalWidth: 50
+    originalHeight: 134
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 48
+      height: 94
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.625
+      width: 0.1875
+      height: 0.3671875
+    rotated: 0
+  material: {fileID: 2100000, guid: 9106cd5705cddfb49bdb294fb6f0cd6f, type: 2}
+  texture: {fileID: 2800000, guid: e454bca590f64ad4d90d8571d445319b, type: 3}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicSoliderFire
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 0.5
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: a7d1403f551fb4137b13ba8c54c06065
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 76acb05be4a437d44bff27fdfa95d3b1, type: 2}
+    index: 0
+  - textureGUID: 1bee196020bd947f3804bed63a92bf86
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 76acb05be4a437d44bff27fdfa95d3b1, type: 2}
+    index: 3
+  - textureGUID: 326d19b4d7a2a4837897c27ff54d5c33
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 76acb05be4a437d44bff27fdfa95d3b1, type: 2}
+    index: 4
+  eventInfos: []
+  speed: 1
+  editorPreviewSize: 256
+  editorScale: 1
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

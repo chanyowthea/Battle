@@ -1,0 +1,720 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: GeneralHead013
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 3654-1
+    originalWidth: 12
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.9296875
+      y: 0.703125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3655-1
+    originalWidth: 20
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 12
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.92578125
+      y: 0.421875
+      width: 0.046875
+      height: 0.25
+    rotated: 0
+  - name: 3656-1
+    originalWidth: 34
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.45703125
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3657-1
+    originalWidth: 32
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.8125
+      y: 0.421875
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3658-1
+    originalWidth: 14
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.875
+      y: 0.703125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3659-1
+    originalWidth: 22
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 11
+      y: 0
+      width: 11
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.06640625
+      y: 0.703125
+      width: 0.04296875
+      height: 0.265625
+    rotated: 0
+  - name: 3660-1
+    originalWidth: 30
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.6953125
+      y: 0.421875
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3661-1
+    originalWidth: 20
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.234375
+      y: 0.40625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3662-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.23046875
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3663-1
+    originalWidth: 14
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.17578125
+      y: 0.703125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3664-1
+    originalWidth: 16
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.40625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3665-1
+    originalWidth: 14
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.34765625
+      y: 0.703125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3666-1
+    originalWidth: 14
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.40234375
+      y: 0.703125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3667-1
+    originalWidth: 22
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 10
+      y: 0
+      width: 12
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.87109375
+      y: 0.421875
+      width: 0.046875
+      height: 0.25
+    rotated: 0
+  - name: 3668-1
+    originalWidth: 38
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 14
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.2421875
+      y: 0.125
+      width: 0.0546875
+      height: 0.25
+    rotated: 0
+  - name: 3669-1
+    originalWidth: 34
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.515625
+      y: 0.703125
+      width: 0.0546875
+      height: 0.265625
+    rotated: 0
+  - name: 3670-1
+    originalWidth: 12
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.34765625
+      y: 0.40625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3671-1
+    originalWidth: 44
+    originalHeight: 188
+    trimRect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 12
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.3046875
+      y: 0.125
+      width: 0.046875
+      height: 0.25
+    rotated: 0
+  - name: 3672-1
+    originalWidth: 34
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.0625
+      y: 0.40625
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3673-1
+    originalWidth: 34
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 14
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.125
+      width: 0.0546875
+      height: 0.25
+    rotated: 0
+  - name: 3674-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.2890625
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3675-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.640625
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3676-1
+    originalWidth: 20
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 7
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.0703125
+      y: 0.125
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3677-1
+    originalWidth: 78
+    originalHeight: 28
+    trimRect:
+      serializedVersion: 2
+      x: 62
+      y: 0
+      width: 16
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: 0.48828125
+      y: 0.1875
+      width: 0.0625
+      height: 0.1875
+    rotated: 0
+  - name: 3678-1
+    originalWidth: 76
+    originalHeight: 44
+    trimRect:
+      serializedVersion: 2
+      x: 60
+      y: 0
+      width: 16
+      height: 13
+    coords:
+      serializedVersion: 2
+      x: 0.41796875
+      y: 0.171875
+      width: 0.0625
+      height: 0.203125
+    rotated: 0
+  - name: 3679-1
+    originalWidth: 78
+    originalHeight: 30
+    trimRect:
+      serializedVersion: 2
+      x: 62
+      y: 0
+      width: 16
+      height: 11
+    coords:
+      serializedVersion: 2
+      x: 0.55859375
+      y: 0.203125
+      width: 0.0625
+      height: 0.171875
+    rotated: 0
+  - name: 3680-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 10
+      y: 0
+      width: 14
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.578125
+      y: 0.703125
+      width: 0.0546875
+      height: 0.265625
+    rotated: 0
+  - name: 3681-1
+    originalWidth: 16
+    originalHeight: 198
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.1796875
+      y: 0.40625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 3682-1
+    originalWidth: 32
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.12890625
+      y: 0.125
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3683-1
+    originalWidth: 32
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.5234375
+      y: 0.421875
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3684-1
+    originalWidth: 32
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.63671875
+      y: 0.421875
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3685-1
+    originalWidth: 32
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.7578125
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3686-1
+    originalWidth: 32
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.359375
+      y: 0.125
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3687-1
+    originalWidth: 32
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3688-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.69921875
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3689-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.1171875
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3690-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.12109375
+      y: 0.40625
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3691-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.81640625
+      y: 0.703125
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3692-1
+    originalWidth: 16
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.1875
+      y: 0.125
+      width: 0.046875
+      height: 0.25
+    rotated: 0
+  - name: 3693-1
+    originalWidth: 14
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 12
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.58203125
+      y: 0.421875
+      width: 0.046875
+      height: 0.25
+    rotated: 0
+  - name: 3694-1
+    originalWidth: 28
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 14
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.40234375
+      y: 0.421875
+      width: 0.0546875
+      height: 0.25
+    rotated: 0
+  - name: 3695-1
+    originalWidth: 26
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.75390625
+      y: 0.421875
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  - name: 3696-1
+    originalWidth: 24
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.2890625
+      y: 0.40625
+      width: 0.05078125
+      height: 0.265625
+    rotated: 0
+  - name: 3697-1
+    originalWidth: 24
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.46484375
+      y: 0.421875
+      width: 0.05078125
+      height: 0.25
+    rotated: 0
+  material: {fileID: 2100000, guid: 061131d0776124f908afc333c6fd7f93, type: 2}
+  texture: {fileID: 2800000, guid: 1bada186ce202413e9776bf7be8be387, type: 3}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: AttackFront4
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 0
+  length: 1.1666666
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 81ceeb6d1577041c6ba71b7e29b5849f
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 54a940905be9c4eb7ad16d12359bbbde, type: 2}
+    index: 16
+  - textureGUID: 7bec7c11f634a4467b71ab4a53899e8b
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 54a940905be9c4eb7ad16d12359bbbde, type: 2}
+    index: 17
+  - textureGUID: 8782cd7c564844fa998d2152a75a4c6d
+    length: 0.6666667
+    atlas: {fileID: 11400000, guid: 54a940905be9c4eb7ad16d12359bbbde, type: 2}
+    index: 18
+  - textureGUID: e5c17a4d7eb214bd0b5e25954b4b706a
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 54a940905be9c4eb7ad16d12359bbbde, type: 2}
+    index: 19
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 0.46446744
+  editorOffset: 0
+  editorSpeed: 1.5
+  editorNeedRebuild: 0

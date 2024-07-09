@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Fight
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 1
+  length: 0.6666667
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: f16fd8da05a7a48bd8eb0c35c34c83e2
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 8252273d877dd4ec797b38d7a942b8d2, type: 2}
+    index: 0
+  - textureGUID: d17bf9ad2f4e743348b30a3434c14471
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 8252273d877dd4ec797b38d7a942b8d2, type: 2}
+    index: 1
+  - textureGUID: 8a422ccc506404e08894db1384b2eb90
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 8252273d877dd4ec797b38d7a942b8d2, type: 2}
+    index: 2
+  - textureGUID: d65da2033662b4c4eacc3f0637145440
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 8252273d877dd4ec797b38d7a942b8d2, type: 2}
+    index: 3
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 0.6264772
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

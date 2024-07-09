@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicSunArrowExplode
+  m_EditorClassIdentifier: 
+  wrapMode: 1
+  stopAction: 3
+  length: 0.8333334
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: f436afb5211b843af832b90a18654f48
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: ce4da846745009c41b5638f6e83a46a7, type: 2}
+    index: 4
+  - textureGUID: a996a3035df0d465685824345a8290be
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: ce4da846745009c41b5638f6e83a46a7, type: 2}
+    index: 5
+  - textureGUID: 7566d79adf8b84dff8759c2fd995ea45
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: ce4da846745009c41b5638f6e83a46a7, type: 2}
+    index: 6
+  - textureGUID: 1007d24f9179f4de396f228684b44b55
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: ce4da846745009c41b5638f6e83a46a7, type: 2}
+    index: 7
+  - textureGUID: c096dc1e0c5f841b98e83730030af1a1
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: ce4da846745009c41b5638f6e83a46a7, type: 2}
+    index: 8
+  eventInfos: []
+  speed: 2
+  editorPreviewSize: 256
+  editorScale: 0.7600001
+  editorOffset: 0
+  editorSpeed: 2
+  editorNeedRebuild: 0

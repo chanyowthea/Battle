@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicMine
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1372-1
+    originalWidth: 44
+    originalHeight: 250
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 43
+      height: 132
+    coords:
+      serializedVersion: 2
+      x: 0.015625
+      y: 0.4765625
+      width: 0.3359375
+      height: 0.515625
+    rotated: 0
+  - name: 1373-1
+    originalWidth: 30
+    originalHeight: 140
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 27
+      height: 75
+    coords:
+      serializedVersion: 2
+      x: 0.6953125
+      y: 0.69921875
+      width: 0.2109375
+      height: 0.29296875
+    rotated: 0
+  - name: 1374-1
+    originalWidth: 42
+    originalHeight: 188
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 40
+      height: 99
+    coords:
+      serializedVersion: 2
+      x: 0.3671875
+      y: 0.60546875
+      width: 0.3125
+      height: 0.38671875
+    rotated: 0
+  - name: 1375-1
+    originalWidth: 26
+    originalHeight: 100
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 26
+      height: 55
+    coords:
+      serializedVersion: 2
+      x: 0.015625
+      y: 0.25390625
+      width: 0.203125
+      height: 0.21484375
+    rotated: 0
+  material: {fileID: 2100000, guid: 8f1e5c2cc605aef4faffabfa89025a08, type: 2}
+  texture: {fileID: 2800000, guid: 04af100616cb2b04e9f8b9c160693e8a, type: 3}

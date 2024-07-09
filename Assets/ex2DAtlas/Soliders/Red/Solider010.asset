@@ -1,0 +1,512 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: Solider010
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 810-1
+    originalWidth: 74
+    originalHeight: 134
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 66
+      height: 70
+    coords:
+      serializedVersion: 2
+      x: 0.8671875
+      y: 0.40820312
+      width: 0.12890625
+      height: 0.13671875
+    rotated: 0
+  - name: 811-1
+    originalWidth: 80
+    originalHeight: 136
+    trimRect:
+      serializedVersion: 2
+      x: 11
+      y: 0
+      width: 69
+      height: 71
+    coords:
+      serializedVersion: 2
+      x: 0.7285156
+      y: 0.40625
+      width: 0.13476562
+      height: 0.13867188
+    rotated: 0
+  - name: 812-1
+    originalWidth: 144
+    originalHeight: 130
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 89
+      height: 68
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.21875
+      width: 0.17382812
+      height: 0.1328125
+    rotated: 0
+  - name: 813-1
+    originalWidth: 104
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 68
+      height: 67
+    coords:
+      serializedVersion: 2
+      x: 0.30664062
+      y: 0.22070312
+      width: 0.1328125
+      height: 0.13085938
+    rotated: 0
+  - name: 814-1
+    originalWidth: 66
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 59
+      height: 67
+    coords:
+      serializedVersion: 2
+      x: 0.5683594
+      y: 0.22070312
+      width: 0.115234375
+      height: 0.13085938
+    rotated: 0
+  - name: 815-1
+    originalWidth: 80
+    originalHeight: 102
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 72
+      height: 71
+    coords:
+      serializedVersion: 2
+      x: 0.5839844
+      y: 0.40625
+      width: 0.140625
+      height: 0.13867188
+    rotated: 0
+  - name: 816-1
+    originalWidth: 88
+    originalHeight: 118
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 73
+      height: 60
+    coords:
+      serializedVersion: 2
+      x: 0.73046875
+      y: 0.09765625
+      width: 0.14257812
+      height: 0.1171875
+    rotated: 0
+  - name: 817-1
+    originalWidth: 90
+    originalHeight: 58
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 76
+      height: 32
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.01953125
+      width: 0.1484375
+      height: 0.0625
+    rotated: 0
+  - name: 818-1
+    originalWidth: 96
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 89
+      height: 98
+    coords:
+      serializedVersion: 2
+      x: 0.5390625
+      y: 0.5761719
+      width: 0.17382812
+      height: 0.19140625
+    rotated: 0
+  - name: 819-1
+    originalWidth: 96
+    originalHeight: 188
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 88
+      height: 97
+    coords:
+      serializedVersion: 2
+      x: 0.7167969
+      y: 0.578125
+      width: 0.171875
+      height: 0.18945312
+    rotated: 0
+  - name: 820-1
+    originalWidth: 144
+    originalHeight: 176
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 107
+      height: 91
+    coords:
+      serializedVersion: 2
+      x: 0.37109375
+      y: 0.3671875
+      width: 0.20898438
+      height: 0.17773438
+    rotated: 0
+  - name: 821-1
+    originalWidth: 130
+    originalHeight: 180
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 102
+      height: 93
+    coords:
+      serializedVersion: 2
+      x: 0.16796875
+      y: 0.36328125
+      width: 0.19921875
+      height: 0.18164062
+    rotated: 0
+  - name: 822-1
+    originalWidth: 88
+    originalHeight: 188
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 82
+      height: 97
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.35546875
+      width: 0.16015625
+      height: 0.18945312
+    rotated: 0
+  - name: 823-1
+    originalWidth: 94
+    originalHeight: 220
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 87
+      height: 113
+    coords:
+      serializedVersion: 2
+      x: 0.41210938
+      y: 0.7753906
+      width: 0.16992188
+      height: 0.22070312
+    rotated: 0
+  - name: 824-1
+    originalWidth: 96
+    originalHeight: 218
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 95
+      height: 112
+    coords:
+      serializedVersion: 2
+      x: 0.78515625
+      y: 0.77734375
+      width: 0.18554688
+      height: 0.21875
+    rotated: 0
+  - name: 825-1
+    originalWidth: 106
+    originalHeight: 224
+    trimRect:
+      serializedVersion: 2
+      x: 5
+      y: 0
+      width: 101
+      height: 115
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.7714844
+      width: 0.19726562
+      height: 0.22460938
+    rotated: 0
+  - name: 826-1
+    originalWidth: 112
+    originalHeight: 220
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 104
+      height: 113
+    coords:
+      serializedVersion: 2
+      x: 0.20507812
+      y: 0.7753906
+      width: 0.203125
+      height: 0.22070312
+    rotated: 0
+  - name: 827-1
+    originalWidth: 104
+    originalHeight: 220
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 0
+      width: 100
+      height: 113
+    coords:
+      serializedVersion: 2
+      x: 0.5859375
+      y: 0.7753906
+      width: 0.1953125
+      height: 0.22070312
+    rotated: 0
+  - name: 828-1
+    originalWidth: 94
+    originalHeight: 218
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 92
+      height: 112
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.5488281
+      width: 0.1796875
+      height: 0.21875
+    rotated: 0
+  - name: 829-1
+    originalWidth: 96
+    originalHeight: 206
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 88
+      height: 106
+    coords:
+      serializedVersion: 2
+      x: 0.1875
+      y: 0.5605469
+      width: 0.171875
+      height: 0.20703125
+    rotated: 0
+  - name: 830-1
+    originalWidth: 96
+    originalHeight: 204
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 88
+      height: 105
+    coords:
+      serializedVersion: 2
+      x: 0.36328125
+      y: 0.5625
+      width: 0.171875
+      height: 0.20507812
+    rotated: 0
+  - name: 831-1
+    originalWidth: 70
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 62
+      height: 67
+    coords:
+      serializedVersion: 2
+      x: 0.44335938
+      y: 0.22070312
+      width: 0.12109375
+      height: 0.13085938
+    rotated: 0
+  - name: 832-1
+    originalWidth: 72
+    originalHeight: 124
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 63
+      height: 65
+    coords:
+      serializedVersion: 2
+      x: 0.2578125
+      y: 0.087890625
+      width: 0.123046875
+      height: 0.12695312
+    rotated: 0
+  - name: 833-1
+    originalWidth: 72
+    originalHeight: 122
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 62
+      height: 64
+    coords:
+      serializedVersion: 2
+      x: 0.49414062
+      y: 0.08984375
+      width: 0.12109375
+      height: 0.125
+    rotated: 0
+  - name: 834-1
+    originalWidth: 74
+    originalHeight: 124
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 63
+      height: 65
+    coords:
+      serializedVersion: 2
+      x: 0.13085938
+      y: 0.087890625
+      width: 0.123046875
+      height: 0.12695312
+    rotated: 0
+  - name: 835-1
+    originalWidth: 74
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 63
+      height: 67
+    coords:
+      serializedVersion: 2
+      x: 0.6875
+      y: 0.22070312
+      width: 0.123046875
+      height: 0.13085938
+    rotated: 0
+  - name: 836-1
+    originalWidth: 72
+    originalHeight: 126
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 62
+      height: 66
+    coords:
+      serializedVersion: 2
+      x: 0.8144531
+      y: 0.22265625
+      width: 0.12109375
+      height: 0.12890625
+    rotated: 0
+  - name: 837-1
+    originalWidth: 72
+    originalHeight: 124
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 63
+      height: 66
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.0859375
+      width: 0.123046875
+      height: 0.12890625
+    rotated: 0
+  - name: 838-1
+    originalWidth: 70
+    originalHeight: 126
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 62
+      height: 68
+    coords:
+      serializedVersion: 2
+      x: 0.18164062
+      y: 0.21875
+      width: 0.12109375
+      height: 0.1328125
+    rotated: 0
+  - name: 839-1
+    originalWidth: 54
+    originalHeight: 124
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 54
+      height: 65
+    coords:
+      serializedVersion: 2
+      x: 0.38476562
+      y: 0.087890625
+      width: 0.10546875
+      height: 0.12695312
+    rotated: 0
+  - name: 840-1
+    originalWidth: 56
+    originalHeight: 120
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 55
+      height: 63
+    coords:
+      serializedVersion: 2
+      x: 0.6191406
+      y: 0.091796875
+      width: 0.107421875
+      height: 0.123046875
+    rotated: 0
+  material: {fileID: 2100000, guid: d93c3168234b84efc9f14f04b0c61834, type: 2}
+  texture: {fileID: 2800000, guid: 07452ef16882048f8921b073a5fb7ce1, type: 3}

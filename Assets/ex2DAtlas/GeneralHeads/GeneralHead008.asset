@@ -1,0 +1,720 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: GeneralHead008
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 2594-1
+    originalWidth: 12
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.26953125
+      y: 0.375
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2595-1
+    originalWidth: 32
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.32421875
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2596-1
+    originalWidth: 12
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.5859375
+      y: 0.390625
+      width: 0.04296875
+      height: 0.265625
+    rotated: 0
+  - name: 2597-1
+    originalWidth: 20
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 10
+      y: 0
+      width: 10
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.74609375
+      y: 0.390625
+      width: 0.0390625
+      height: 0.265625
+    rotated: 0
+  - name: 2598-1
+    originalWidth: 28
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.80078125
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2599-1
+    originalWidth: 22
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.85546875
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2600-1
+    originalWidth: 12
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.64453125
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2601-1
+    originalWidth: 12
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.59375
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2602-1
+    originalWidth: 14
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.79296875
+      y: 0.390625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2603-1
+    originalWidth: 36
+    originalHeight: 188
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.375
+      width: 0.05078125
+      height: 0.28125
+    rotated: 0
+  - name: 2604-1
+    originalWidth: 32
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.3203125
+      y: 0.375
+      width: 0.05078125
+      height: 0.28125
+    rotated: 0
+  - name: 2605-1
+    originalWidth: 12
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.4296875
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2606-1
+    originalWidth: 42
+    originalHeight: 186
+    trimRect:
+      serializedVersion: 2
+      x: 29
+      y: 0
+      width: 13
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: 0.21875
+      y: 0.109375
+      width: 0.05078125
+      height: 0.234375
+    rotated: 0
+  - name: 2607-1
+    originalWidth: 32
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.74609375
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2608-1
+    originalWidth: 32
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 13
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.53515625
+      y: 0.6875
+      width: 0.05078125
+      height: 0.28125
+    rotated: 0
+  - name: 2609-1
+    originalWidth: 20
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2610-1
+    originalWidth: 20
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.0625
+      y: 0.078125
+      width: 0.04296875
+      height: 0.265625
+    rotated: 0
+  - name: 2611-1
+    originalWidth: 20
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.21484375
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2612-1
+    originalWidth: 30
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.4296875
+      y: 0.390625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2613-1
+    originalWidth: 76
+    originalHeight: 34
+    trimRect:
+      serializedVersion: 2
+      x: 61
+      y: 0
+      width: 15
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: 0.27734375
+      y: 0.15625
+      width: 0.05859375
+      height: 0.1875
+    rotated: 0
+  - name: 2614-1
+    originalWidth: 24
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 12
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.109375
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2615-1
+    originalWidth: 16
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 5
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.6953125
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2616-1
+    originalWidth: 28
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.1640625
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2617-1
+    originalWidth: 30
+    originalHeight: 188
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.63671875
+      y: 0.390625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2618-1
+    originalWidth: 30
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.11328125
+      y: 0.078125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2619-1
+    originalWidth: 30
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.48046875
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2620-1
+    originalWidth: 30
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.078125
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2621-1
+    originalWidth: 18
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 10
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.171875
+      y: 0.375
+      width: 0.0390625
+      height: 0.28125
+    rotated: 0
+  - name: 2622-1
+    originalWidth: 20
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.12109375
+      y: 0.375
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2623-1
+    originalWidth: 22
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.26953125
+      y: 0.6875
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2624-1
+    originalWidth: 22
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.06640625
+      y: 0.375
+      width: 0.046875
+      height: 0.28125
+    rotated: 0
+  - name: 2625-1
+    originalWidth: 20
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.37890625
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2626-1
+    originalWidth: 14
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.21875
+      y: 0.375
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2627-1
+    originalWidth: 14
+    originalHeight: 196
+    trimRect:
+      serializedVersion: 2
+      x: 3
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.91015625
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2628-1
+    originalWidth: 24
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.84765625
+      y: 0.390625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2629-1
+    originalWidth: 24
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.69140625
+      y: 0.390625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2630-1
+    originalWidth: 20
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.05859375
+      y: 0.6875
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2631-1
+    originalWidth: 20
+    originalHeight: 192
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.53515625
+      y: 0.390625
+      width: 0.04296875
+      height: 0.265625
+    rotated: 0
+  - name: 2632-1
+    originalWidth: 16
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 5
+      y: 0
+      width: 11
+      height: 16
+    coords:
+      serializedVersion: 2
+      x: 0.16796875
+      y: 0.09375
+      width: 0.04296875
+      height: 0.25
+    rotated: 0
+  - name: 2633-1
+    originalWidth: 22
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 10
+      y: 0
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.90234375
+      y: 0.390625
+      width: 0.046875
+      height: 0.265625
+    rotated: 0
+  - name: 2634-1
+    originalWidth: 76
+    originalHeight: 26
+    trimRect:
+      serializedVersion: 2
+      x: 59
+      y: 0
+      width: 17
+      height: 10
+    coords:
+      serializedVersion: 2
+      x: 0.41796875
+      y: 0.1875
+      width: 0.06640625
+      height: 0.15625
+    rotated: 0
+  - name: 2635-1
+    originalWidth: 28
+    originalHeight: 190
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 11
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: 0.37890625
+      y: 0.375
+      width: 0.04296875
+      height: 0.28125
+    rotated: 0
+  - name: 2636-1
+    originalWidth: 74
+    originalHeight: 42
+    trimRect:
+      serializedVersion: 2
+      x: 57
+      y: 0
+      width: 17
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: 0.34375
+      y: 0.15625
+      width: 0.06640625
+      height: 0.1875
+    rotated: 0
+  - name: 2637-1
+    originalWidth: 20
+    originalHeight: 194
+    trimRect:
+      serializedVersion: 2
+      x: 9
+      y: 0
+      width: 11
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: 0.484375
+      y: 0.390625
+      width: 0.04296875
+      height: 0.265625
+    rotated: 0
+  material: {fileID: 2100000, guid: 88a6ad184380547a597fee6b38511b23, type: 2}
+  texture: {fileID: 2800000, guid: ba92b8ddd644a4de497ad6887275dec6, type: 3}

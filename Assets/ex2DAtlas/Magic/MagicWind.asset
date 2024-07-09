@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicWind
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1476-1
+    originalWidth: 86
+    originalHeight: 34
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 85
+      height: 34
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.71875
+      width: 0.33203125
+      height: 0.265625
+    rotated: 0
+  - name: 1477-1
+    originalWidth: 104
+    originalHeight: 32
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 104
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: 0.34765625
+      y: 0.7421875
+      width: 0.40625
+      height: 0.2421875
+    rotated: 0
+  - name: 1478-1
+    originalWidth: 102
+    originalHeight: 30
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 0
+      width: 100
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: 0.0078125
+      y: 0.46875
+      width: 0.390625
+      height: 0.234375
+    rotated: 0
+  - name: 1536-1
+    originalWidth: 68
+    originalHeight: 28
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 60
+      height: 21
+    coords:
+      serializedVersion: 2
+      x: 0.61328125
+      y: 0.5390625
+      width: 0.234375
+      height: 0.1640625
+    rotated: 0
+  - name: 1552-1
+    originalWidth: 60
+    originalHeight: 42
+    trimRect:
+      serializedVersion: 2
+      x: 6
+      y: 0
+      width: 54
+      height: 28
+    coords:
+      serializedVersion: 2
+      x: 0.76171875
+      y: 0.765625
+      width: 0.2109375
+      height: 0.21875
+    rotated: 0
+  - name: 1553-1
+    originalWidth: 56
+    originalHeight: 40
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 51
+      height: 27
+    coords:
+      serializedVersion: 2
+      x: 0.40625
+      y: 0.4921875
+      width: 0.19921875
+      height: 0.2109375
+    rotated: 0
+  material: {fileID: 2100000, guid: b31f57a9e25a09c468e7cdf8681b02aa, type: 2}
+  texture: {fileID: 2800000, guid: 43d141bf2bd72194ebde6798aaa4f1f1, type: 3}

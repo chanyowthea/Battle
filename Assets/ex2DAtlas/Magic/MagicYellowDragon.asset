@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: MagicYellowDragon
+  m_EditorClassIdentifier: 
+  elements:
+  - name: 1376-1
+    originalWidth: 172
+    originalHeight: 336
+    trimRect:
+      serializedVersion: 2
+      x: 6
+      y: 0
+      width: 166
+      height: 232
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.54296875
+      width: 0.32421875
+      height: 0.453125
+    rotated: 0
+  - name: 1404-1
+    originalWidth: 20
+    originalHeight: 156
+    trimRect:
+      serializedVersion: 2
+      x: 1
+      y: 69
+      width: 19
+      height: 87
+    coords:
+      serializedVersion: 2
+      x: 0.7890625
+      y: 0.8261719
+      width: 0.037109375
+      height: 0.16992188
+    rotated: 0
+  - name: 1405-1
+    originalWidth: 34
+    originalHeight: 256
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 112
+      width: 32
+      height: 144
+    coords:
+      serializedVersion: 2
+      x: 0.5292969
+      y: 0.71484375
+      width: 0.0625
+      height: 0.28125
+    rotated: 0
+  - name: 1406-1
+    originalWidth: 46
+    originalHeight: 350
+    trimRect:
+      serializedVersion: 2
+      x: 2
+      y: 154
+      width: 44
+      height: 196
+    coords:
+      serializedVersion: 2
+      x: 0.43945312
+      y: 0.61328125
+      width: 0.0859375
+      height: 0.3828125
+    rotated: 0
+  - name: 1519-1
+    originalWidth: 64
+    originalHeight: 60
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 60
+      height: 59
+    coords:
+      serializedVersion: 2
+      x: 0.00390625
+      y: 0.42382812
+      width: 0.1171875
+      height: 0.115234375
+    rotated: 0
+  - name: 1529-1
+    originalWidth: 52
+    originalHeight: 60
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 50
+      height: 55
+    coords:
+      serializedVersion: 2
+      x: 0.125
+      y: 0.43164062
+      width: 0.09765625
+      height: 0.107421875
+    rotated: 0
+  - name: 1530-1
+    originalWidth: 54
+    originalHeight: 408
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 53
+      height: 231
+    coords:
+      serializedVersion: 2
+      x: 0.33203125
+      y: 0.5449219
+      width: 0.103515625
+      height: 0.45117188
+    rotated: 0
+  - name: 1531-1
+    originalWidth: 70
+    originalHeight: 70
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 3
+      width: 67
+      height: 67
+    coords:
+      serializedVersion: 2
+      x: 0.8300781
+      y: 0.8652344
+      width: 0.13085938
+      height: 0.13085938
+    rotated: 0
+  - name: 1532-1
+    originalWidth: 104
+    originalHeight: 122
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 8
+      width: 97
+      height: 114
+    coords:
+      serializedVersion: 2
+      x: 0.5957031
+      y: 0.7734375
+      width: 0.18945312
+      height: 0.22265625
+    rotated: 0
+  material: {fileID: 2100000, guid: 2e57db5cf31abbc43af7e8715d435665, type: 2}
+  texture: {fileID: 2800000, guid: 66a56eaa978b6e64aa85de7a4eafa7e4, type: 3}

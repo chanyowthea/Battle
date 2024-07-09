@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: c020d0256ed86433db697cc3a22a6691, type: 3}
+  m_Name: ArmyRunDown
+  m_EditorClassIdentifier: 
+  wrapMode: 2
+  stopAction: 0
+  length: 1
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 04b639b425ed64f758fd33ee1ab3e6a6
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 10
+  - textureGUID: ca117aeff742a40dcb258bcfec1ad2fa
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 11
+  - textureGUID: f8df59e9b56084d8485776ce8b9e926a
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 12
+  - textureGUID: aa3ad0caf37b3486287e1c61765560e5
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 13
+  - textureGUID: 0ea2cf6b1266947dc8f0851978ef0c79
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 14
+  - textureGUID: 2c263df1fa104464e939ef5d4573eec0
+    length: 0.16666667
+    atlas: {fileID: 11400000, guid: 1d5c22f78c2d3426a8d387eaef6fbb03, type: 2}
+    index: 15
+  eventInfos: []
+  speed: 1.5
+  editorPreviewSize: 256
+  editorScale: 0.77598625
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0
